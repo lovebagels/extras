@@ -1,0 +1,4 @@
+# Trusted bakeries
+# Seperated by newlines
+https://github.com/wxllow/toaster-core
+https://github.com/lovebagels/toaster-git
